@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TonyLab4Order", "TonyLab4Order\TonyLab4Order.csproj", "{5938C00E-B0DC-4FA7-9298-22BDB4F94082}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderData", "OrderData\OrderData.csproj", "{08827E48-A1EC-4BDF-B7BB-D55099430641}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5938C00E-B0DC-4FA7-9298-22BDB4F94082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5938C00E-B0DC-4FA7-9298-22BDB4F94082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5938C00E-B0DC-4FA7-9298-22BDB4F94082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5938C00E-B0DC-4FA7-9298-22BDB4F94082}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08827E48-A1EC-4BDF-B7BB-D55099430641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08827E48-A1EC-4BDF-B7BB-D55099430641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08827E48-A1EC-4BDF-B7BB-D55099430641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08827E48-A1EC-4BDF-B7BB-D55099430641}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {190F47ED-26ED-4E01-8A4B-0CEC592B220E}
+	EndGlobalSection
+EndGlobal

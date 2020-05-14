@@ -1,0 +1,6 @@
+C:\Users\Tonyekas\source\repos\TonyLab4Order\OrderData\bin\Debug\OrderData.dll
+C:\Users\Tonyekas\source\repos\TonyLab4Order\OrderData\bin\Debug\OrderData.pdb
+C:\Users\Tonyekas\source\repos\TonyLab4Order\OrderData\obj\Debug\OrderData.csprojAssemblyReference.cache
+C:\Users\Tonyekas\source\repos\TonyLab4Order\OrderData\obj\Debug\OrderData.csproj.CoreCompileInputs.cache
+C:\Users\Tonyekas\source\repos\TonyLab4Order\OrderData\obj\Debug\OrderData.dll
+C:\Users\Tonyekas\source\repos\TonyLab4Order\OrderData\obj\Debug\OrderData.pdb

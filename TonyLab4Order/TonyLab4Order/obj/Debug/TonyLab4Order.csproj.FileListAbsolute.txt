@@ -1,0 +1,13 @@
+C:\Users\Tonyekas\source\repos\TonyLab4Order\TonyLab4Order\bin\Debug\TonyLab4Order.exe.config
+C:\Users\Tonyekas\source\repos\TonyLab4Order\TonyLab4Order\bin\Debug\TonyLab4Order.exe
+C:\Users\Tonyekas\source\repos\TonyLab4Order\TonyLab4Order\bin\Debug\TonyLab4Order.pdb
+C:\Users\Tonyekas\source\repos\TonyLab4Order\TonyLab4Order\obj\Debug\TonyLab4Order.csprojAssemblyReference.cache
+C:\Users\Tonyekas\source\repos\TonyLab4Order\TonyLab4Order\obj\Debug\TonyLab4Order.Properties.Resources.resources
+C:\Users\Tonyekas\source\repos\TonyLab4Order\TonyLab4Order\obj\Debug\TonyLab4Order.csproj.GenerateResource.cache
+C:\Users\Tonyekas\source\repos\TonyLab4Order\TonyLab4Order\obj\Debug\TonyLab4Order.csproj.CoreCompileInputs.cache
+C:\Users\Tonyekas\source\repos\TonyLab4Order\TonyLab4Order\obj\Debug\TonyLab4Order.exe
+C:\Users\Tonyekas\source\repos\TonyLab4Order\TonyLab4Order\obj\Debug\TonyLab4Order.pdb
+C:\Users\Tonyekas\source\repos\TonyLab4Order\TonyLab4Order\bin\Debug\OrderData.dll
+C:\Users\Tonyekas\source\repos\TonyLab4Order\TonyLab4Order\bin\Debug\OrderData.pdb
+C:\Users\Tonyekas\source\repos\TonyLab4Order\TonyLab4Order\obj\Debug\TonyLab4Order.CustomerForm.resources
+C:\Users\Tonyekas\source\repos\TonyLab4Order\TonyLab4Order\obj\Debug\TonyLab4Order.csproj.CopyComplete
